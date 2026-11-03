@@ -13,7 +13,7 @@ Repo: https://github.com/Fraa16/the-cleaner-bremen-mockup (Branch `main`)
 
 ## 3. E-Mail
 - `mail/versand.html` = versandfertige HTML-Mail (Bilder absolut verlinkt).
-- Vor dem Versand ersetzen: `[Vorname Nachname]`, `[Telefon]`, `IHRE-ADRESSE@chatifa.de` (3×).
+- Absender: Francesco Lacanea · 0176 24863584 · francesco@chatifa.de
 - Live-URL: https://the-cleaner-bremen-mockup.vercel.app
 - Betreff: **Ihr Website-Entwurf für The Cleaner Bremen**
 - Vorschau im Browser: https://the-cleaner-bremen-mockup.vercel.app/mail/
