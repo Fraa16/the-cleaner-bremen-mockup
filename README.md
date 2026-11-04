@@ -12,7 +12,7 @@ Repo: https://github.com/Fraa16/the-cleaner-bremen-mockup (Branch `main`)
 - Seite ist per `noindex` (Meta, Header, robots.txt) für Suchmaschinen gesperrt.
 
 ## 3. E-Mail
-- `mail/versand.html` = schlichte Text-Mail mit klickbarem Link (im Browser öffnen, kopieren, in die Mail einfügen).
+- `mail/versand.html` = gestaltete HTML-Mail (Bild lädt von Vercel). Im Browser öffnen, alles kopieren, in die Mail einfügen.
 - Betreff: **The Cleaner: Entwurf für Ihre neue Website**
 - Anhang: Screenshots 01, 05 und 06.
 - Live-URL: https://the-cleaner-bremen-mockup.vercel.app
