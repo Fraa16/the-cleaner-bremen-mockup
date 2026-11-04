@@ -12,11 +12,10 @@ Repo: https://github.com/Fraa16/the-cleaner-bremen-mockup (Branch `main`)
 - Seite ist per `noindex` (Meta, Header, robots.txt) für Suchmaschinen gesperrt.
 
 ## 3. E-Mail
-- `mail/versand.html` = versandfertige HTML-Mail (Bilder absolut verlinkt).
-- Absender: Francesco Lacanea · 0176 24863584 · francesco@chatifa.de
+- `mail/versand.html` = schlichte Text-Mail mit klickbarem Link (im Browser öffnen, kopieren, in die Mail einfügen).
+- Betreff: **The Cleaner: Entwurf für Ihre neue Website**
+- Anhang: Screenshots 01, 05 und 06.
 - Live-URL: https://the-cleaner-bremen-mockup.vercel.app
-- Betreff: **Ihr Website-Entwurf für The Cleaner Bremen**
-- Vorschau im Browser: https://the-cleaner-bremen-mockup.vercel.app/mail/
 
 ## Inhalt
 - `index.html` – Startseite (Variante 2a), Desktop + Mobil, klickbar
